@@ -1,0 +1,19 @@
+{
+  "name": "tw-challenges",
+  "version": "0.0.1",
+  "authors": [
+    "jaturong.d@taskworld.com"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "fontawesome": "~4.2.0"
+  }
+}
